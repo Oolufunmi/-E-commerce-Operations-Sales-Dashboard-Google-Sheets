@@ -11,7 +11,8 @@ The final dashboard consolidates critical KPIs, operational metrics, and trend a
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![Messy Data](<img width="933" height="362" alt="Messy Data" src="https://github.com/user-attachments/assets/73e664f8-f727-469b-84eb-6b05f29eaa2d" />
+)
 
 ## Live Dashboard
 
