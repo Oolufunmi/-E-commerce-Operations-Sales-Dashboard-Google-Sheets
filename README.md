@@ -1,0 +1,2 @@
+# -E-commerce-Operations-Sales-Dashboard-Google-Sheets
+Designed an interactive Google Sheets dashboard analyzing e-commerce operations, sales performance, customer transactions, and fulfillment activities using a 10,000+ row dataset. The solution transformed messy operational data into actionable business insights through data cleaning, validation, pivot table reporting, and dashboard visualization.
