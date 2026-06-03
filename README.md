@@ -13,6 +13,8 @@ The final dashboard consolidates critical KPIs, operational metrics, and trend a
 
 ![Messy Data](<img width="933" height="362" alt="Messy Data" src="https://github.com/user-attachments/assets/73e664f8-f727-469b-84eb-6b05f29eaa2d" />
 )
+![Cleaned Data](<img width="937" height="376" alt="Cleaned Data" src="https://github.com/user-attachments/assets/f4bb122e-19ce-4777-9338-dea549707c3f" />)
+
 
 ## Live Dashboard
 
