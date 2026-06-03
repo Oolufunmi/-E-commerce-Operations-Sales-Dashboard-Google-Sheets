@@ -11,14 +11,13 @@ The final dashboard consolidates critical KPIs, operational metrics, and trend a
 
 ## Dashboard Preview
 
-![Messy Data](<img width="933" height="362" alt="Messy Data" src="https://github.com/user-attachments/assets/73e664f8-f727-469b-84eb-6b05f29eaa2d" />
-)
-![Cleaned Data](<img width="937" height="376" alt="Cleaned Data" src="https://github.com/user-attachments/assets/f4bb122e-19ce-4777-9338-dea549707c3f" />
-)
-![Data Quality Check](<img width="912" height="381" alt="Data Quality Check" src="https://github.com/user-attachments/assets/4d55c975-5260-4e8a-9cd6-98353ca5472b" />
-)
-![Dashboard](<img width="709" height="375" alt="Dashboard" src="https://github.com/user-attachments/assets/62265412-67ab-4684-aa13-151281fb1694" />
-)
+![Messy Data]<img width="933" height="362" alt="Messy Data" src="https://github.com/user-attachments/assets/73e664f8-f727-469b-84eb-6b05f29eaa2d" />
+
+![Cleaned Data]<img width="937" height="376" alt="Cleaned Data" src="https://github.com/user-attachments/assets/f4bb122e-19ce-4777-9338-dea549707c3f" />
+
+![Data Quality Check]<img width="912" height="381" alt="Data Quality Check" src="https://github.com/user-attachments/assets/4d55c975-5260-4e8a-9cd6-98353ca5472b" />
+
+![Dashboard]<img width="709" height="375" alt="Dashboard" src="https://github.com/user-attachments/assets/62265412-67ab-4684-aa13-151281fb1694" />
 
 
 
