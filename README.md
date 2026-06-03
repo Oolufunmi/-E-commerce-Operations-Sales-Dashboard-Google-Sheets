@@ -24,7 +24,7 @@ The final dashboard consolidates critical KPIs, operational metrics, and trend a
 
 ## Live Dashboard
 
-🔗 **Google Sheets Dashboard:** [Insert Google Sheets Link]
+🔗 **Google Sheets Dashboard:** [Ecommerce project in Google sheet https://docs.google.com/spreadsheets/d/1oeoUSkLUgO3VeWzNGKlilEpFtIVhp0eVIRZX3QxLGJM/edit?gid=2046115635#gid=2046115635]
 
 🎥 **Project Walkthrough Video:** [Insert Loom Video Link]
 
